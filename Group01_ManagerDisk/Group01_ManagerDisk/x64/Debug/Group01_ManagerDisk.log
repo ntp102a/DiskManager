@@ -1,0 +1,5 @@
+﻿  console.cpp
+  main.cpp
+C:\Users\ADmin\Desktop\Data Structure\Group01_ManagerDisk\Group01_ManagerDisk\main.cpp(625,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Group01_ManagerDisk.vcxproj -> C:\Users\ADmin\Desktop\Data Structure\Group01_ManagerDisk\x64\Debug\Group01_ManagerDisk.exe

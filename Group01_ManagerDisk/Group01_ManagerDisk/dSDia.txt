@@ -1,0 +1,96 @@
+5
+phim hanh dong
+3
+hd01
+phim 01
+1998
+phuoc
+nhan vat A
+hd02
+phim 02
+1999
+nhu
+nhan vat B
+hd03
+phim 03
+2000
+phuoc
+nhan vat C
+phim tinh cam
+3
+tc01
+phim 11
+1998
+tri
+nhan vat D
+tc02
+phim 12
+1999
+tri
+nhan vat E
+tc03
+phim 13
+2000
+tri
+nhan vat A
+phim hai huoc
+3
+hh01
+phim 21
+1998
+nhu
+nhan vat B
+hh02
+phim 22
+1999
+nhu
+nhan vat C
+hh03
+phim 23
+2000
+nhu
+nhan vat D
+phim kinh di
+4
+kd01
+phim 31
+1998
+nhu
+nhan vat E
+kd02
+phim 32
+1999
+nhat
+nhan vat A
+kd03
+phim 33
+2000
+nhat
+nhan vat B
+kd04
+phim 34
+2001
+nhat
+nhan vat C
+phim vo thuat
+4
+vt02
+phim 42
+1998
+nhat
+nhan vat D
+vt03
+phim 41
+1999
+nhu
+nhan vat E
+vt01
+phim 43
+2000
+phuoc
+nhan vat A
+vt04
+phim 44
+2002
+tri
+nhan vat B
